@@ -7,4 +7,7 @@ spam-filter-naive-bayes-classifier
 2. mail-parser (https://pypi.python.org/pypi/mail-parser)
 ```
 pip install mail-parser
+pip install numpy
+pip install pandas
+pip install scikit-learn
 ```
