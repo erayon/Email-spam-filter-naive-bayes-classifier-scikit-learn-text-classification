@@ -1,6 +1,5 @@
-# email-spam-filter-naive-bayes-classifier
+# Email-spam-filter-naive-bayes-classifier using scikit-learn text classification
 Naive bayes simplifies the calculation of probabilities by assuming that the probability of each attribute belonging to a given class value is independent of all other attributes. This is a strong assumption but results in a fast and effective method.
-
 
 
 # Prerequisites
@@ -12,3 +11,5 @@ pip install numpy
 pip install pandas
 pip install scikit-learn
 ```
+# Link
+http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html for scikit-learn text classification
