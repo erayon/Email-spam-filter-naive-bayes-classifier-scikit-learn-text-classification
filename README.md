@@ -1,5 +1,6 @@
 # email-spam-filter-naive-bayes-classifier
-spam-filter-naive-bayes-classifier
+Naive bayes simplifies the calculation of probabilities by assuming that the probability of each attribute belonging to a given class value is independent of all other attributes. This is a strong assumption but results in a fast and effective method.
+
 
 
 # Prerequisites
